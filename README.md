@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Abdi 👋
 
-<!--
-**Akassim05/Akassim05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year BSc (Hons) Cyber Security student  
+🔐 Interested in Cybersecurity, Networking & Security Operations  
+💻 Building practical labs and security projects
 
-Here are some ideas to get you started:
+## 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Linux
+- Windows & Active Directory
+- Networking
+- Python
+- PowerShell
+- Git & GitHub
+
+## 🚀 Current Projects
+
+- 🖥️ Active Directory Home Lab
+- 🌐 Network Security Lab
+- 🐍 Python Security Tools
+
+## 🎯 Currently Learning
+
+- Security Operations
+- Active Directory
+- Python for Cybersecurity
+- Cloud Security
+
+## 🔗 Connect with me
+
+[LinkedIn](https://www.linkedin.com/in/abdikassim/)
