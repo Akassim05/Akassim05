@@ -1,4 +1,4 @@
-# Hi, I'm Abdi 👋
+# Hi, I'm Abdi Kassim 👋
 
 🎓 Final-year BSc (Hons) Cyber Security student  
 🔐 Interested in Cybersecurity, Networking & Security Operations  
